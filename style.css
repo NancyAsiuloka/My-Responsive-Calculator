@@ -21,5 +21,7 @@
 }
 
 .calculator form input{
+    border: 0;
+    outline: 0;
 
 }
